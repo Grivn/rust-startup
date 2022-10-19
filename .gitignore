@@ -1,2 +1,5 @@
 /node_modules/
 package-lock.json
+
+# hello_world project
+/hello_world/target/
