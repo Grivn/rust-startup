@@ -1,5 +1,5 @@
 /node_modules/
 package-lock.json
 
-# hello_world project
-/hello_world/target/
+# cargo rust project
+**/target/
